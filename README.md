@@ -13,9 +13,10 @@ This 1 point studio course will focus on advanced graphics programming skills us
 3. **Color**: Explore and understand the creation and modification of color in GLSL, including gradients, stepped colors and time-based animations.  Homework: Read chapter 7 and do the exercises.
 
 4. **Shapes**: Learn to use specialized GLSL methods and functions to create a variety of geometric shapes in shaders, from basic circles and squares to highly complex forms and patterns. Present assignment final project. Homework: Read chapter 8 and do the exercises. Start researching and brainstorming ideas for your final project.
-Matrices and Animation: Understand the basic concepts and structure of matrix operations, then learn to implement matrices in GLSL for translation, rotation, scaling and time-based animation. Homework: Read chapter 9 and do the exercises, work on your final project
 
-5. **Patterns**: Learn to use and combine all previously-covered tools to create complex visual patterns width shaders. Final project workshop. Homework: Read chapter 10, 11 and do the exercises. Finish your final project to show time!
+5. **Matrices and Animation**: Understand the basic concepts and structure of matrix operations, then learn to implement matrices in GLSL for translation, rotation, scaling and time-based animation. Homework: Read chapter 9 and do the exercises, work on your final project
+
+6. **Patterns**: Learn to use and combine all previously-covered tools to create complex visual patterns width shaders. Final project workshop. Homework: Read chapter 10, 11 and do the exercises. Finish your final project to show time!
 Final project showoff and celebration!
 
 ## Final Project
