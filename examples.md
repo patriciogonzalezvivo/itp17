@@ -16,3 +16,7 @@ http://thebookofshaders.com/edit.php?log=170211202243
 http://thebookofshaders.com/edit.php?log=170211203451
 http://thebookofshaders.com/edit.php?log=170211205728
 http://thebookofshaders.com/edit.php?log=170211213733
+
+## Patterns
+http://thebookofshaders.com/edit.php?log=170212161554
+http://thebookofshaders.com/edit.php?log=170212161740
