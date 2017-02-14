@@ -1,4 +1,4 @@
-# Shader Studio at IPT
+# Shader Studio at ITP
 
 ## Description
 
